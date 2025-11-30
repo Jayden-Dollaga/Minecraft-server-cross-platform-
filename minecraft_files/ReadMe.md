@@ -44,3 +44,10 @@ These configurations aim to balance smooth performance with improved visual qual
 ---
 
 Enjoy **Actions And Stuff** and bring your Minecraft world to life with animations and stunning textures!
+
+---
+
+file link for the action and stuff and mc 
+
+A&S: https://drive.google.com/file/d/1vRPrAM8cKsJi1oz-rV9rKGI0S-OM-EyB/view?usp=sharing
+MC: https://drive.google.com/file/d/1y01uy8unQbVY8GBrzYpkRVwqnFwklYAz/view?usp=sharing
