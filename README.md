@@ -3,7 +3,7 @@
 ![Minecraft](https://img.shields.io/badge/Minecraft-Java%20%7C%20Bedrock-orange)
 ![CraftyControl](https://img.shields.io/badge/Crafty-Control-red)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
-
+> ⚠️ This repository is for personal archive use only.
 ---
 
 # Minecraft Server (Java & Bedrock)
@@ -286,4 +286,3 @@ I will store a **custom Minecraft APK** here (or link it through Releases) purel
 This is not intended for distribution — only for my own testing and reference.
 
 ---
-> ⚠️ This repository is for personal archive use only.
