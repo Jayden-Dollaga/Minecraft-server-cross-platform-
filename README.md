@@ -12,9 +12,21 @@
 
 ---
 
-# Features
+# Minecraft Server (Java & Bedrock)
 
-Add this below your Requirements section:
+Cross-platform hosting using **GitHub Codespaces**, **CraftyControl**, and **Playit.gg**
+
+## Requirements
+
+* Sanity
+* Time
+* GitHub account
+* playit.gg account
+* CraftyControl
+
+---
+
+# Features
 
 ```
 ## Features
@@ -30,67 +42,7 @@ Add this below your Requirements section:
 - One-command server startup and updates
 - Clean setup that works even on low-spec devices
 ```
-
 ---
-
-# Troubleshooting
-
-Add this near the bottom of your README:
-
-```
-## Troubleshooting
-
-### CraftyControl not opening
-- Make sure you ran:  
-  `/workspaces/Minecraft-server-cross-platform-/minecraft/run_crafty.sh`
-- If Codespaces shows no popup link, check terminal output for the URL.
-- Try restarting the Codespace.
-
-### "pip: command not found"
-Run:
-  sudo apt install python3-pip
-
-### Installer says "distro missing"
-Run:
-  pip install distro
-
-### Playit agent not starting
-- Make sure you opened a **new terminal** before running `playit`.
-- Reinstall Playit by copying a fresh command from playit.gg.
-
-### Server won't start in Crafty
-- Check if Java is installed inside Codespaces.
-- Verify your server folder is inside:
-  `/workspaces/Minecraft-server-cross-platform-/minecraft`
-
-### Codespace shut down
-GitHub Codespaces auto-sleeps if idle.  
-Just reopen your Codespace and run:
-  /workspaces/Minecraft-server-cross-platform-/minecraft/run_crafty.sh
-  playit
-
-### "Permission denied" errors
-Run the command with:
-  sudo ./install_crafty.sh
-or
-  sudo chmod +x file.sh
-```
----
-
-# Minecraft Server (Java & Bedrock)
-
-Cross-platform hosting using **GitHub Codespaces**, **CraftyControl**, and **Playit.gg**
-
-## Requirements
-
-* Sanity
-* Time
-* GitHub account
-* playit.gg account
-* CraftyControl
-
----
-
 ## How to Host a Minecraft Server Using GitHub Codespaces
 
 ### 1. Create Your GitHub Environment
@@ -237,4 +189,46 @@ Run Playit:
 playit
 ```
 
+---
+
+# Troubleshooting
+
+```
+## Troubleshooting
+
+### CraftyControl not opening
+- Make sure you ran:  
+  `/workspaces/Minecraft-server-cross-platform-/minecraft/run_crafty.sh`
+- If Codespaces shows no popup link, check terminal output for the URL.
+- Try restarting the Codespace.
+
+### "pip: command not found"
+Run:
+  sudo apt install python3-pip
+
+### Installer says "distro missing"
+Run:
+  pip install distro
+
+### Playit agent not starting
+- Make sure you opened a **new terminal** before running `playit`.
+- Reinstall Playit by copying a fresh command from playit.gg.
+
+### Server won't start in Crafty
+- Check if Java is installed inside Codespaces.
+- Verify your server folder is inside:
+  `/workspaces/Minecraft-server-cross-platform-/minecraft`
+
+### Codespace shut down
+GitHub Codespaces auto-sleeps if idle.  
+Just reopen your Codespace and run:
+  /workspaces/Minecraft-server-cross-platform-/minecraft/run_crafty.sh
+  playit
+
+### "Permission denied" errors
+Run the command with:
+  sudo ./install_crafty.sh
+or
+  sudo chmod +x file.sh
+```
 ---
