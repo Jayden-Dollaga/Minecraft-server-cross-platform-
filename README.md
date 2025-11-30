@@ -238,3 +238,52 @@ sudo chmod +x file.sh
 ```
 
 ---
+
+# Archive Notes (Personal Use)
+
+This section is for my own reference.
+I am using this repository as an archive for my preferred server setup, versions, and plugins.
+
+## Minecraft Versions
+**Server Edition**
+* spigot/paper version: **1.20.10**
+  
+**Java Edition:**
+
+* Primary target version: **1.20.10**
+
+**Bedrock Edition:**
+
+* Target version range: **1.12.120**
+* Acceptable alternatives: **any version 3–5 builds above or below this**
+
+This setup is tested with Java–Bedrock crossplay through Geyser and Floodgate.
+
+---
+
+## Required Plugins (all `.jar` files)
+
+These are the plugins I use for compatibility, cosmetics, and cross-version support:
+
+* EmoteOffhand.jar
+* floodgate-spigot.jar
+* GeyserConnect.jar
+* Geyser-Spigot.jar
+* hurricane-spigot.jar
+* ThirdPartyCosmetics.jar
+* Thunder.jar
+* ViaBackwards-5.5.1.jar
+* ViaRewind-4.0.11.jar
+* ViaVersion-5.5.0.jar
+
+All plugins go inside the Crafty-managed server `plugins/` directory.
+
+---
+
+## APK Storage (Personal Archive)
+
+I will store a **custom Minecraft APK** here (or link it through Releases) purely as an archive for my setup.
+This is not intended for distribution — only for my own testing and reference.
+
+---
+> ⚠️ This repository is for personal archive use only.
