@@ -1,7 +1,5 @@
 ---
 
-# Badges
-
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Platform](https://img.shields.io/badge/platform-GitHub%20Codespaces-blue)
 ![Minecraft](https://img.shields.io/badge/Minecraft-Java%20%7C%20Bedrock-orange)
