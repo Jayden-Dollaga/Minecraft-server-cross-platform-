@@ -254,7 +254,7 @@ I am using this repository as an archive for my preferred server setup, versions
 
 **Bedrock Edition:**
 
-* Target version range: **1.12.120**
+* Target version range: **1.21.120**
 * Acceptable alternatives: **any version 3–5 builds above or below this**
 
 This setup is tested with Java–Bedrock crossplay through Geyser and Floodgate.
