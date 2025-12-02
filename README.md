@@ -50,7 +50,7 @@ Cross-platform hosting using **GitHub Codespaces**, **CraftyControl**, and **Pla
    * Name: anything you want
    * Description: optional
    * Add README: enable
-3. Open **Codespaces**:
+3. Open **Codespaces**: [![Codespaces](https://img.shields.io/badge/platform-GitHub%20Codespaces-blue)](https://github.com/codespaces)
 
    * Click “Create new Codespace”
    * Repository: your repo
@@ -150,7 +150,7 @@ Your Crafty panel is now ready.
 
 ---
 
-## 5. Port Forwarding (Playit.gg)
+## 5. Port Forwarding (Playit.gg) [![Playit.gg](https://img.shields.io/badge/Playit.gg-Online-blue)](https://playit.gg/)
 
 This lets Java + Bedrock players join from anywhere.
 
@@ -249,7 +249,7 @@ sudo chmod +x file.sh
 This section is for my own reference.
 I am using this repository as an archive for my preferred server setup, versions, and plugins.
 
-## Minecraft Versions
+## Minecraft Versions [![Latest Release](https://img.shields.io/github/v/release/Jayden-Dollaga/Minecraft-server-cross-platform-?label=Download&color=blue)](https://github.com/Jayden-Dollaga/Minecraft-server-cross-platform-/releases/latest)
 **Server Edition**
 * spigot/paper version: **1.20.10**
   
