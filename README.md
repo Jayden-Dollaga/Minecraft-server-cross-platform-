@@ -1,12 +1,14 @@
+[![Platform](https://img.shields.io/badge/platform-GitHub%20Codespaces-blue)](https://github.com/Jayden-Dollaga/Minecraft-server-cross-platform-/codespaces)
 
-![Status](https://img.shields.io/badge/status-active-brightgreen)
-![Platform](https://img.shields.io/badge/platform-GitHub%20Codespaces-blue)
+[![Latest Release](https://img.shields.io/github/v/release/Jayden-Dollaga/Minecraft-server-cross-platform-?label=Download&color=blue)](https://github.com/Jayden-Dollaga/Minecraft-server-cross-platform-/releases/latest)
+
+![Status](https://img.shields.io/badge/status-semi--active-yellow)
 ![Minecraft](https://img.shields.io/badge/Minecraft-Java%20%7C%20Bedrock-orange)
 ![CraftyControl](https://img.shields.io/badge/Crafty-Control-red)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 > ⚠️ This repository is for personal archive use only.
-[![Latest Release](https://img.shields.io/github/v/release/Jayden-Dollaga/Minecraft-server-cross-platform-?label=Download&color=blue)](https://github.com/Jayden-Dollaga/Minecraft-server-cross-platform-/releases/latest)
+
 ---
 
 # Minecraft Server (Java & Bedrock)
