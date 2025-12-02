@@ -1,9 +1,12 @@
+
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Platform](https://img.shields.io/badge/platform-GitHub%20Codespaces-blue)
 ![Minecraft](https://img.shields.io/badge/Minecraft-Java%20%7C%20Bedrock-orange)
 ![CraftyControl](https://img.shields.io/badge/Crafty-Control-red)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
+
 > ⚠️ This repository is for personal archive use only.
+[![Latest Release](https://img.shields.io/github/v/release/Jayden-Dollaga/Minecraft-server-cross-platform-?label=Download&color=blue)](https://github.com/Jayden-Dollaga/Minecraft-server-cross-platform-/releases/latest)
 ---
 
 # Minecraft Server (Java & Bedrock)
@@ -259,8 +262,6 @@ I am using this repository as an archive for my preferred server setup, versions
 
 This setup is tested with Java–Bedrock crossplay through Geyser and Floodgate.
 
----
-
 ## Required Plugins (all `.jar` files)
 
 These are the plugins I use for compatibility, cosmetics, and cross-version support:
@@ -285,4 +286,5 @@ All plugins go inside the Crafty-managed server `plugins/` directory.
 I will store a **custom Minecraft APK** here (or link it through Releases) purely as an archive for my setup.
 This is not intended for distribution — only for my own testing and reference.
 
----
+
+
