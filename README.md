@@ -11,6 +11,23 @@
 
 ---
 
+# Table of Contents
+- [Overview](#minecraft-server-java--bedrock)
+- [Requirements](#requirements)
+- [Features](#features)
+- [Hosting Guide](#how-to-host-a-minecraft-server-using-github-codespaces)
+- [Crafty Installation](#2-install-crafty-controller)
+- [Playit Setup](#5-port-forwarding-playitgg-)
+- [Quick Commands](#quick-start-commands)
+- [Troubleshooting](#troubleshooting)
+- [Archive Notes](#archive-notes-personal-use)
+- [Minecraft Versions](#minecraft-versions-)
+- [Plugins List](#required-plugins-all-jar-files)
+- [APK Storage](#apk-storage-personal-archive)
+
+
+---
+
 # Minecraft Server (Java & Bedrock)
 
 Cross-platform hosting using **GitHub Codespaces**, **CraftyControl**, and **Playit.gg**
