@@ -94,13 +94,7 @@ If a configuration window appears (OpenSSH), just select **keep the local versio
 
 ### Step C — Install Crafty (Automated Installer)
 
-Use this one-line command:
-
-```bash
-git clone https://gitlab.com/crafty-controller/crafty-installer-4.0.git && cd crafty-installer-4.0 && sudo ./install_crafty.sh
-```
-
-If you prefer manual: “(Recomended)“
+Use this manual command:  “(Recomended)“
 
 ```bash
 git clone https://gitlab.com/crafty-controller/crafty-installer-4.0.git
@@ -112,6 +106,12 @@ cd crafty-installer-4.0
 
 ```bash
 sudo ./install_crafty.sh
+```
+
+If you prefer automatic:
+
+```bash
+git clone https://gitlab.com/crafty-controller/crafty-installer-4.0.git && cd crafty-installer-4.0 && sudo ./install_crafty.sh
 ```
 
 ### Step D — Installer Prompts
