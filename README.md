@@ -92,12 +92,6 @@ If it asks `[y/N]`, type `y`.
 
 If a configuration window appears (OpenSSH), just select **keep the local version** and continue.
 
-### Step B — Install `distro`
-
-```bash
-pip install distro
-```
-
 ### Step C — Install Crafty (Automated Installer)
 
 Use this one-line command:
@@ -110,7 +104,13 @@ If you prefer manual:
 
 ```bash
 git clone https://gitlab.com/crafty-controller/crafty-installer-4.0.git
+```
+
+```bash
 cd crafty-installer-4.0
+```
+
+```bash
 sudo ./install_crafty.sh
 ```
 
@@ -119,8 +119,9 @@ sudo ./install_crafty.sh
 During installation:
 
 1. “Download Ubuntu requirements?” → **y**
-2. “Where should Crafty install?” →
-
+2. “Install Crafty to this directory?” → **n**
+3. “Where should Crafty install?” →
+   
    * Right-click your README
    * Copy path:
      `/workspaces/Minecraft-server-cross-platform-/README.md`
@@ -128,8 +129,8 @@ During installation:
      Example:
      `/workspaces/Minecraft-server-cross-platform-/minecraft`
    * Press **y** to confirm
-3. “Master or dev?” → type **master**
-4. “Create a service for Crafty?” → **y**
+4. “Master or dev?” → type **master**
+5. “Create a service for Crafty?” → **y**
 
 Crafty is now installed.
 
