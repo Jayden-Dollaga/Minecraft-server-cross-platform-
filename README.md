@@ -92,6 +92,11 @@ If it asks `[y/N]`, type `y`.
 
 If a configuration window appears (OpenSSH), just select **keep the local version** and continue.
 
+### Step B — Install `distro`
+
+```bash
+pip install distro
+```
 ### Step C — Install Crafty (Automated Installer)
 
 Use this manual command:  “(Recomended)“
