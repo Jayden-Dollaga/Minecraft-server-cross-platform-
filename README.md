@@ -9,6 +9,15 @@
 
 > ⚠️ This repository is for personal archive use only.
 
+> ⚠️ **Codespaces Usage Disclaimer:**  
+> If you are using GitHub Free Plan, you may hit Codespaces limits:
+> - 120 core-hours of Codespaces compute per developer per month
+> - 15GB of Codespaces storage per developer
+> - You might see messages like:  
+>   `"Please adjust your billing settings to continue using Codespaces"`  
+> Unlimited public/private repos, collaborators, Actions minutes, and Packages storage still apply.  
+> For full details, see the [GitHub Codespaces Billing Documentation](https://docs.github.com/en/billing/concepts/product-billing/github-codespaces).
+
 ---
 
 # Table of Contents
