@@ -8,15 +8,24 @@
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 > ⚠️ This repository is for personal archive use only.
-
+>
 > ⚠️ **Codespaces Usage Disclaimer:**  
-> If you are using GitHub Free Plan, you may hit Codespaces limits:
-> - 120 core-hours of Codespaces compute per developer per month
-> - 15GB of Codespaces storage per developer
-> - You might see messages like:  
->   `"Please adjust your billing settings to continue using Codespaces"`  
-> Unlimited public/private repos, collaborators, Actions minutes, and Packages storage still apply.  
-> For full details, see the [GitHub Codespaces Billing Documentation](https://docs.github.com/en/billing/concepts/product-billing/github-codespaces).
+> GitHub Codespaces has limits on free and billed use for **personal accounts**.  
+> **Note:** GitHub plans for organizations and enterprises do **not** include a free Codespaces quota.
+>
+> **Free Quota for Personal Accounts:**  
+> All GitHub personal accounts include a quota of free compute time and storage for Codespaces. Any usage beyond the included amounts is billed to your account.
+>
+> | Account Plan | Storage per Month | Compute Time per Month |
+> |-------------|-----------------|----------------------|
+> | GitHub Free | 15 GB-month      | 120 hrs              |
+> | GitHub Pro  | 20 GB-month      | 180 hrs              |
+>
+> **Important Notes:**  
+> - GitHub Codespaces is not available for repositories owned by **managed user accounts**. See [About Enterprise Managed Users](https://docs.github.com/en/enterprise-cloud@latest/admin/overview/about-enterprise-managed-users) for details.  
+> - For tips on making the most of your free usage, see [Getting the most out of your included usage](https://docs.github.com/en/billing/concepts/product-billing/github-codespaces).  
+> - You may see messages like: `"Please adjust your billing settings to continue using Codespaces"` if you exceed your quota.
+
 
 ---
 
